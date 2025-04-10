@@ -1,0 +1,8 @@
+RSA needs more computing energy especially for big files.
+AES is faster and more efficient for encrypting any size files
+RSA has limits when it comes to file size
+
+RSA is used mostly for key exchange, small data encryption
+AES is used for example to encrypt SSD, flash drive and etc. (using veracrypt for example)
+
+
